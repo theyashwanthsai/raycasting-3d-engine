@@ -2,6 +2,8 @@
 
 The idea is to create a raycasting engine using python and pygame.  
 
+I still need to make a lot of changes and develop it
+
 
 
 ## References:
